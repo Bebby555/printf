@@ -2,7 +2,7 @@
 
 /**
  * get_flags - Calculates active flags
- * By Deborah and Gozie
+ * By Deborah and Gozie for printf
  * @format: Formatted string in which to print the arguments
  * @i: take a parameter.
  * Return: Flags:
