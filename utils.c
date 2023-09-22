@@ -2,7 +2,7 @@
 
 /**
  * is_printable - Evaluates if a char is printable
- * By Deborah and Gozie
+ * By Deborah and Gozie for utils.c
  * @c: Char to be evaluated.
  *
  * Return: 1 if c is printable, 0 otherwise
