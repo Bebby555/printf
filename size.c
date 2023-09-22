@@ -2,7 +2,7 @@
 
 /**
  * get_size - Calculates the size to cast the argument
- * By Deborah and Gozie
+ * By Deborah and Gozie for size.c
  * @format: Formatted string in which to print the arguments
  * @i: List of arguments to be printed.
  *
