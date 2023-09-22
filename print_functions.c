@@ -4,7 +4,7 @@
 
 /**
  * print_char - Prints a char
- * By Deborah and Gozie
+ * By Deborah and Gozie for prints_functions
  * @types: List a of arguments
  * @buffer: Buffer array to handle print
  * @flags:  Calculates active flags
