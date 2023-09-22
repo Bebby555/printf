@@ -1,9 +1,10 @@
+
 #include "main.h"
 
 /************************* PRINT UNSIGNED NUMBER *************************/
 /**
  * print_unsigned - Prints an unsigned number
- * By Gozie and Deborah
+ * By Deborah and gozie
  * @types: List a of arguments
  * @buffer: Buffer array to handle print
  * @flags:  Calculates active flags
