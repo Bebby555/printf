@@ -2,7 +2,7 @@
 
 /**
  * get_precision - Calculates the precision for printing
- * by deborah and gozie
+ * by deborah and gozie for precision.c
  * @format: Formatted string in which to print the arguments
  * @i: List of arguments to be printed.
  * @list: list of arguments.
